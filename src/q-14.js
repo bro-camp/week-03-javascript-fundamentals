@@ -31,7 +31,7 @@ for (let i = 0; i < size; i += 1) {
   sumArray.push(ar);
 }
 
-console.log('Sum of two arrays is:');
+console.log('\nSum of two arrays is:');
 console.log('[');
 for (let i = 0; i < size; i += 1) {
   let line = '  [ ';
